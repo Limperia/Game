@@ -1,0 +1,68 @@
+.bg-Vector__1_ {
+    width: 13px; height: 21px;
+    background: url('css_sprites.png') -232px -97px;
+}
+
+x
+.bg-GamerX {
+    width: 102px; height: 19px;
+    background: url('css_sprites.png') -180px -10px;
+}
+
+x
+.bg-Vector__2_ {
+    width: 32px; height: 29px;
+    background: url('css_sprites.png') -180px -97px;
+}
+
+x
+.bg-Vector__3_ {
+    width: 13px; height: 21px;
+    background: url('css_sprites.png') -265px -97px;
+}
+
+x
+.bg-Vector__4_ {
+    width: 27px; height: 17px;
+    background: url('css_sprites.png') -252px -49px;
+}
+
+x
+.bg-Vector__5_ {
+    width: 22px; height: 9px;
+    background: url('css_sprites.png') -180px -146px;
+}
+
+x
+.bg-Vector__6_ {
+    width: 65px; height: 59px;
+    background: url('css_sprites.png') -95px -95px;
+}
+
+x
+.bg-Vector__7_ {
+    width: 65px; height: 65px;
+    background: url('css_sprites.png') -10px -10px;
+}
+
+x
+.bg-Vector__8_ {
+    width: 65px; height: 65px;
+    background: url('css_sprites.png') -95px -10px;
+}
+
+x
+.bg-Vector {
+    width: 52px; height: 28px;
+    background: url('css_sprites.png') -180px -49px;
+}
+
+x
+.bg-wifi__1_ {
+    width: 65px; height: 65px;
+    background: url('css_sprites.png') -10px -95px;
+}
+Drag & Drop files here or select them using:
+
+CHOOSE FILES
+DOWNLOAD
